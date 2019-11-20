@@ -17,10 +17,10 @@
   },
   "keywords": [
     "技术",
-    "文集",
-    "未来"
+    "study",
+    "work"
   ],
-  "author": "阮一峰",
+  "author": "wyl350",
   "license": "CC BY-NC-ND 3.0",
   "devDependencies": {
     "gh-pages": "latest",
